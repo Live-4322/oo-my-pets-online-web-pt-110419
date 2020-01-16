@@ -1,4 +1,4 @@
-lass Cat
+class Cat
   # code goes here
 end 
   attr_reader :name
